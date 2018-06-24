@@ -10,7 +10,9 @@ The dataset which we will be using for this project is 11 categories extracted f
 Each category has around 750 images in training dataset and 250 images in test dataset.We have further separated training dataset into 7235 images and 1015 images in training and validation datasets respectively.
 The food-101 is large dataset and has 1M images,it would take high computational cost and time to evaluate the whole dataset,So We extracted first 11 categories from that dataset.
 
-Project Requirements
+### Project Requirements
 Python 3.5
 Tensorflow 1.4.0
 Keras 2.0 with tensorflow as backend.
+
+
